@@ -32,7 +32,9 @@ final.
 3. Colócalo en el lugar correcto de la torre.   
 4. Repite hasta completar los 7 componentes.   
 5. ¡Gana la partida cuando todos estén colocados correctamente!   
-## Créditos - Autor: Apellido1 Apellido2 Nombre   - Asignatura: Informática Básica – Práctica 4   - Grado: Diseño de Videojuegos   - Universidad: Universidad de Burgos   - Curso académico: 2025 - 2026   - Herramienta: Construct 3   - Control de versiones: GitHub Desktop   
+## Créditos
+- Autor: Santiso Castro Hugo
+- Asignatura: Informática Básica – Práctica 4-    - Grado: Diseño de Videojuegos   - Universidad: Universidad de Burgos   - Curso académico: 2025 - 2026   - Herramienta: Construct 3   - Control de versiones: GitHub Desktop   
 ## Licencia 
 Este proyecto está bajo la licencia **Creative Commons Attribution-NonCommercial
 ShareAlike 4.0 (CC-BY-NC-SA-4.0)**.   
